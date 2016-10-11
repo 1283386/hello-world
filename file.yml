@@ -1,0 +1,5 @@
+---
+name: test
+with_items:
+  - test_item1
+  - test_item2
